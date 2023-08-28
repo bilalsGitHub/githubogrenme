@@ -1,13 +1,1 @@
-SONG - ARTIST
-_____________
-
-First Song is ......
-
------------
-
-
-Second song is .......
-
-
-second song is tarkan
-
+açılış 2 second branch
