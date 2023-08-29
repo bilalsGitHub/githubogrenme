@@ -1,3 +1,5 @@
 1 açılış
 
 main dosyasi duzultme 1
+
+main dosyası 1 
